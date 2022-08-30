@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-final-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/estilo.scss css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPacheco1208/proyectofinal2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanPacheco1208/proyectofinal2/issues"
+  },
+  "homepage": "https://github.com/JuanPacheco1208/proyectofinal2#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}

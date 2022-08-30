@@ -1,0 +1,156 @@
+body{
+    background-color: white;
+}
+header{
+    color: white;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+.logo{
+    width: 10px;
+    height: 10px;
+}
+.card-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 60px;
+    width: 100%;
+    margin: 17px;
+    text-decoration: wavy;
+    font-weight: 700;
+}
+.card-text{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.galeria{
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+}
+.calzado{
+    font-size: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    padding: 2px;
+}
+.card-group{
+    margin: 5px;
+}
+.centro{
+    background-color: black;
+}
+.seccion2{
+    margin: 4px;
+    height: 200px;
+}
+.div.p{
+    text-align: center;
+    font-size: 100px;
+}
+.col{
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.col:hover{
+    background-color: #020202b7;
+    text-decoration: underline;
+    animation-iteration-count: unset;
+}
+.parrafo2{
+    z-index: 2;
+}
+.espacio{
+    margin: 300px;
+    background-color: #ffffff27;
+    font-size: 50px;
+}
+.imagen{
+    margin: 2px;
+    width: 100%;
+    padding: 1rem;
+    height: 10%;
+    font-size: 100px;
+    text-decoration: black;
+}
+.mujer{
+    height: 200px;
+    padding: 10px;
+}
+.section3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.eslogan{
+    margin: 50px;
+}
+.pie{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 23px;
+}
+
+.logoFooter{
+    width: 100px;
+}
+
+.estilo-accord{
+    color: beige;
+}
+
+.terminos{
+    color: black;
+    text-decoration: solid;
+    font-weight: 700;
+    text-align: center;
+    width: 70;
+}
+
+.terminos-texto{
+    color: black;
+    text-align: center;
+    margin: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: white;
+}

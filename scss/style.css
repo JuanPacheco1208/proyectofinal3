@@ -1,0 +1,129 @@
+body {
+  background-color: #e2e1e1;
+}
+
+nav {
+  background-color: #000000;
+}
+
+main .logo {
+  width: 10px;
+  height: 10px;
+}
+main .card-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-size: 60px;
+  width: 100%;
+  margin: 17px;
+  -webkit-text-decoration: wavy;
+          text-decoration: wavy;
+  font-weight: 700;
+}
+main .card-text {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 30px;
+}
+main .galeria {
+  font-size: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100px;
+}
+main .galeria .calzado {
+  font-size: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100px;
+  padding: 2px;
+}
+main .galeria .card-group {
+  margin: 5px;
+}
+main .galeria .centro {
+  background-color: black;
+}
+main .galeria .seccion2 {
+  margin: 4px;
+  height: 200px;
+}
+main .galeria .div.p {
+  text-align: center;
+  font-size: 100px;
+}
+main .galeria .col {
+  color: white;
+  background-color: black;
+  text-decoration: none;
+  padding: 15px;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main .galeria .col:hover {
+  background-color: rgba(2, 2, 2, 0.7176470588);
+  text-decoration: underline;
+  -webkit-animation-iteration-count: unset;
+          animation-iteration-count: unset;
+}
+main .galeria .parrafo2 {
+  z-index: 2;
+}
+main .galeria .espacio {
+  margin: 300px;
+  background-color: rgba(255, 255, 255, 0.1529411765);
+  font-size: 50px;
+}
+main .galeria .imagen {
+  margin: 2px;
+  width: 100%;
+  padding: 1rem;
+  height: 10%;
+  font-size: 100px;
+  -webkit-text-decoration: black;
+          text-decoration: black;
+}
+main .galeria .mujer {
+  height: 200px;
+  padding: 10px;
+}
+
+footer {
+  background-color: #000000;
+}
+footer .section3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+}
+footer .pie {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 23px;
+}
+footer .logoFooter {
+  width: 100px;
+}
+footer .estilo-accord {
+  color: beige;
+}
+footer .terminos {
+  color: black;
+  -webkit-text-decoration: solid;
+          text-decoration: solid;
+  font-weight: 700;
+  text-align: center;
+  width: 70;
+}
+footer .terminos-texto {
+  color: black;
+  text-align: center;
+  margin: 25px;
+}/*# sourceMappingURL=style.css.map */
